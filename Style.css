@@ -1,0 +1,21 @@
+body{
+	background-color: #2d2d2d;
+
+}	
+
+p {
+   font: 20px arial, sans-serif;
+   color: #ffdede;
+   margin-left: 7%;
+   margin-right: 7%;
+   text-align: justify;
+}
+a {
+   font: 20px arial, sans-serif;
+   color: #ff797a;
+}
+h4 {
+   margin-left: 7%;
+   margin-right: 7%;
+   text-align: justify;
+}
