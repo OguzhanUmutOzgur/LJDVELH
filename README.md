@@ -54,6 +54,13 @@ Basic Structure: Total number of actions/texts
 0                                                         //The end
 
 
+# packages/libraries used 
+## sdl2
+## sdl2.nuget
+## sdl2_image.nuget
+## sdl2_mixer.nuget
+## sdl2_ttf.nuget
+
 # License
 Musics, images and books used in the project are free copyright.
 This project is a free license project. You can download, modify and redistribute while it is not for commercial use. Name of the base developpers must be mentioned. 
