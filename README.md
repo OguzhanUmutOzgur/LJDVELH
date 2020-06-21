@@ -5,6 +5,9 @@ Le Jeu Dont Vous Etes Le Hero in French or Gamebook in English is unique and spe
 
 This project developped by Iliass El Lahibi, Emma Petit, Louis Garrido and Oguzhan Umut Ozgur in January 2020. Also, this project developped under the supervision of Université Claude Bernard Lyon 1.
 
+## Demonstration Video -> youtube.com/watch?v=UQggO-bfXL4
+[![Demonstration](https://img.youtube.com/vi/UQggO-bfXL4/0.jpg)](https://www.youtube.com/watch?v=UQggO-bfXL4)
+
 # How to play ? 
 New Game and Continue game allow you to play the game. On the left page you have the story text and the current action number, on the right page you have the possible choises and their number. You can choose one of the choises. You can roll a dice by clicking the dice which can be found on the bottom of the right page. You can go back to home screen (menu) by pressing 'M'. 
 Game Path draws the path tree of all possible choises you can make and also it shows in green the blocks of your current path.
